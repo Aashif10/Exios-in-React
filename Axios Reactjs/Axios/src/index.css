@@ -1,0 +1,22 @@
+
+.card{
+  padding: 1em;
+  border: 3px solid gray;
+  background-color:black;
+}
+.grid{
+  text-align: center;
+  /* max-width: 100rem; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.6rem;
+}
+p{
+  color: white;
+}
+h2{
+  color:gray;
+}
+h1{
+  color: white;
+}
